@@ -7,7 +7,7 @@ environment:
   sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
-  charset_converter: ^2.0.0
+  charset_converter: 2.0.0
   esc_pos_utils:
     git:
       url: https://github.com/pp1127/esc_pos_utils.git
@@ -17,7 +17,7 @@ dependencies:
     sdk: flutter
   # esc_pos_utils:
   #   path: ../esc_pos_utils
-  image: ^3.0.2
+  image: 3.0.2
 
 dev_dependencies:
   flutter_test:
